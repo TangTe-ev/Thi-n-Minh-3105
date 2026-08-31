@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "identifier": "com.hykadeptry.Hykadeptrai",
-  "name": "Nhaka Dangyeu",
+  "name": "Thanh Thỏ",
   "description": "Mã Nguồn Repo Của NhaKa Dth",
-  "icon": "assets/IMG_0143.jpeg",
+  "icon": "assets/IMG_0662.jpeg",
   "packages": [
     {
       "identifier": "Deafult-apple-wallpaper",
@@ -1012,10 +1012,10 @@
       "tags": [
         "Patches & Dialers"
       ],
-      "icon": "assets/IMG_0644.jpeg",
+      "icon": "assets/IMG_0663.jpeg",
       "screenshots": [
-        "assets/IMG_0645.jpeg",
-        "assets/IMG_0644.jpeg"
+        "assets/IMG_0664.jpeg",
+        "assets/IMG_0666.jpeg"
       ],
       "download": "packages/Doraemon.3105",
       "sha256": "81b06b4e845517df23070b57e1fd01219d288473ba7e7c8d4a1611f8c1c4736b",
