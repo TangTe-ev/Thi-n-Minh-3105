@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.hykadeptry.Hykadeptrai",
-  "name": "Thanh Thỏ",
+  "name": "Thanh Thỏ Cute",
   "description": "Mã Nguồn Repo Của Nhaka dth",
   "icon": "assets/IMG_0662.jpeg",
   "packages": [
@@ -1003,7 +1003,7 @@
     {
       "identifier": "Doraemon-3105",
       "kind": "patch",
-      "name": "Doraemon Dialer",
+      "name": "Thanh Thỏ Cute",
       "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
       "summary": "Giao diện Doraemon dành cho màn hình bàn phím quay số.",
