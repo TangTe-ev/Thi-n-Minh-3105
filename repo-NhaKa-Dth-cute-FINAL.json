@@ -3,7 +3,7 @@
   "identifier": "com.hykadeptry.Hykadeptrai",
   "name": "NhaKa Dth",
   "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-  "icon": "assets/IMG_0143.jpeg",
+  "icon": "assets/0143.jpeg",
   "packages": [
     {
       "identifier": "Deafult-apple-wallpaper",
@@ -1045,15 +1045,16 @@
     },
     {
       "identifier": "hoshimachi-suisei-1-0",
-      "kind": "patch",
+      "kind": "wallpaper",
       "name": "Hoshimachi Suisei 1.0",
       "author": "NhaKa",
       "version": "1.0.0",
       "summary": "Hoshimachi Suisei 1.0",
       "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-      "category": "Patches & Dialers",
+      "category": "Wallpaper",
       "tags": [
-        "Patches & Dialers"
+        "Wallpaper",
+        "Custom"
       ],
       "icon": "assets/IMG_0735.png",
       "screenshots": [
@@ -1088,15 +1089,16 @@
     },
     {
       "identifier": "hoshimachi-suisei-2-0",
-      "kind": "patch",
+      "kind": "wallpaper",
       "name": "Hoshimachi Suisei 2.0",
       "author": "NhaKa",
       "version": "1.0.0",
       "summary": "Hoshimachi Suisei 2.0",
       "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-      "category": "Patches & Dialers",
+      "category": "Wallpaper",
       "tags": [
-        "Patches & Dialers"
+        "Wallpaper",
+        "Custom"
       ],
       "icon": "assets/IMG_0736.png",
       "screenshots": [
@@ -1131,15 +1133,16 @@
     },
     {
       "identifier": "luo-tianyi",
-      "kind": "patch",
+      "kind": "wallpaper",
       "name": "Luo Tianyi",
       "author": "NhaKa",
       "version": "1.0.0",
       "summary": "Luo Tianyi",
       "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-      "category": "Patches & Dialers",
+      "category": "Wallpaper",
       "tags": [
-        "Patches & Dialers"
+        "Wallpaper",
+        "Custom"
       ],
       "icon": "assets/IMG_0737.png",
       "screenshots": [
@@ -1174,15 +1177,16 @@
     },
     {
       "identifier": "snoopy-on-the-moon",
-      "kind": "patch",
+      "kind": "wallpaper",
       "name": "Snoopy on the moon",
       "author": "NhaKa",
       "version": "1.0.0",
       "summary": "Snoopy on the moon",
       "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-      "category": "Patches & Dialers",
+      "category": "Wallpaper",
       "tags": [
-        "Patches & Dialers"
+        "Wallpaper",
+        "Custom"
       ],
       "icon": "assets/IMG_0738.png",
       "screenshots": [
@@ -1217,15 +1221,16 @@
     },
     {
       "identifier": "transformers-star-convoy",
-      "kind": "patch",
+      "kind": "wallpaper",
       "name": "Transformers Star Convoy",
       "author": "NhaKa",
       "version": "1.0.0",
       "summary": "Transformers Star Convoy",
       "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-      "category": "Patches & Dialers",
+      "category": "Wallpaper",
       "tags": [
-        "Patches & Dialers"
+        "Wallpaper",
+        "Custom"
       ],
       "icon": "assets/IMG_0740.png",
       "screenshots": [
