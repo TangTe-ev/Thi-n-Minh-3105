@@ -1,0 +1,1177 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.hykadeptry.Hykadeptrai",
+  "name": "NhaKa Dth",
+  "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+  "icon": "assets/0143.jpeg",
+  "packages": [
+    {
+      "identifier": "Deafult-apple-wallpaper",
+      "kind": "wallpaper",
+      "name": "Deafult Apple Wallpaper",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Bộ hình nền Apple mặc định với phong cách tối giản.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png"
+      ],
+      "download": "packages/Defaults.tendies",
+      "sha256": "ef7a823847f6a9f73fd019074695db0d99172a048f840228b0db2f3205765e5b",
+      "size": 12587406,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Apple-Bird",
+      "kind": "wallpaper",
+      "name": "Apple Birds",
+      "author": "Nhat Tien",
+      "version": "1.0.0",
+      "summary": "Hình nền Apple nổi bật với logo chuyển màu.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0371.png",
+      "screenshots": [
+        "assets/IMG_0371.png",
+        "assets/IMG_0372.png"
+      ],
+      "download": "packages/Apple-Bird-.tendies",
+      "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
+      "size": 1451272,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Capcut-Pro",
+      "kind": "patch",
+      "name": "Capcut Pro",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Phiên bản CapCut tùy chỉnh với các tính năng Pro.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0384.png",
+      "screenshots": [
+        "assets/IMG_0379.png"
+      ],
+      "download": "packages/CapcutPro.3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "password": "3105",
+      "size": 34303,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Dazz-Cam-Pro",
+      "kind": "patch",
+      "name": "Dazz Cam Pro",
+      "author": "W/m Cryy",
+      "version": "1.0.0",
+      "summary": "Bản Dazz Cam Pro được tùy chỉnh cho trải nghiệm chụp ảnh.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0387.png",
+      "screenshots": [
+        "assets/IMG_0380.png"
+      ],
+      "download": "packages/Dazz Cam Pro (WmCry).3105",
+      "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
+      "size": 1082,
+      "password": "wmcry",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Autumn-city",
+      "kind": "wallpaper",
+      "name": "Autumn-city",
+      "author": "Gdnnpc",
+      "version": "1.0.0",
+      "summary": "Hình nền thành phố mùa thu cùng hiệu ứng lá rơi.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0402.png",
+      "screenshots": [
+        "assets/IMG_0402.png",
+        "assets/IMG_0403.png"
+      ],
+      "download": "packages/Autumn_City.tendies",
+      "sha256": "7eb285e89acd8f709a2e2ff5d02ed150e0c7028dc176ca92cb5e1c5795d28da3",
+      "size": 721338,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Chika-Wallpaper",
+      "kind": "wallpaper",
+      "name": "Chika Wallpaper",
+      "author": "Chinese",
+      "version": "1.0.0",
+      "summary": "Hình nền Chikawa dễ thương, mang phong cách đáng yêu ✨",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0339.png",
+      "screenshots": [
+        "assets/IMG_0345.png",
+        "assets/IMG_0361.png"
+      ],
+      "download": "packages/xiaoba.tendies",
+      "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
+      "size": 14533669,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone17Pro",
+      "kind": "wallpaper",
+      "name": "iPhone17Pro & ProMax",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Bộ hình nền dành cho iPhone 17 Pro/Pro Max • iOS 26+.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0424.jpeg",
+      "screenshots": [
+        "assets/IMG_0424.jpeg"
+      ],
+      "download": "packages/iPhone 17 Pro.tendies",
+      "sha256": "f6caadf93d7bba10ace6ae0f6c147af28ab636163ee4461b1a82731051971626",
+      "size": 111695,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-Air",
+      "kind": "wallpaper",
+      "name": "iPhone Air",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Hình nền iPhone Air • hỗ trợ iPhone 15 Pro trở lên, iOS 26+.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0425.jpeg",
+      "screenshots": [
+        "assets/IMG_0425.jpeg"
+      ],
+      "download": "packages/iPhone Air.tendies",
+      "sha256": "7f426c9cd84054606be41cd8c77020225c2df04065c7ab6aa55ba4935bb8f02c",
+      "size": 114779,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-17",
+      "kind": "wallpaper",
+      "name": "iPhone 17",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Bộ hình nền iPhone 17 • yêu cầu iOS 26+.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0430.jpeg",
+      "screenshots": [
+        "assets/IMG_0430.jpeg"
+      ],
+      "download": "packages/iPhone 17.tendies",
+      "sha256": "b98d543795dd1154900aac0520bf4a412bbb269196c2fe3a8a114c0d919e2b8c",
+      "size": 10284660,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-17e",
+      "kind": "wallpaper",
+      "name": "iPhone 17e",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Hình nền iPhone 17e • hỗ trợ từ iOS 26.3.1+.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0426.jpeg",
+      "screenshots": [
+        "assets/IMG_0426.jpeg"
+      ],
+      "download": "packages/iPhone17e.tendies",
+      "sha256": "15db3ff4592bb3dfd792a63587b577aec0c8f45196c508dc188178e4c43b4fe5",
+      "size": 27398,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-16-pro",
+      "kind": "wallpaper",
+      "name": "iPhone 16 Pro & Pro Max",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Hình nền iPhone 16 Pro/Pro Max • iOS 18+.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0427.jpeg",
+      "screenshots": [
+        "assets/IMG_0427.jpeg"
+      ],
+      "download": "packages/iPhone 16 Pro.tendies",
+      "sha256": "15db3ff4592bb3dfd792a63587b577aec0c8f45196c508dc188178e4c43b4fe5",
+      "size": 27398,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "iPhone-16",
+      "kind": "wallpaper",
+      "name": "iPhone 16",
+      "author": "Apple",
+      "version": "1.0.0",
+      "summary": "Bộ hình nền iPhone 16 • tương thích iOS 18+.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Apple",
+      "tags": [
+        "Apple",
+        "Wallpaper"
+      ],
+      "icon": "assets/IMG_0428.jpeg",
+      "screenshots": [
+        "assets/IMG_0428.jpeg"
+      ],
+      "download": "packages/iPhone 16.tendies",
+      "sha256": "f4acbf67ca1d7e4dfd4583aae0383efe0c4a25d69f2fc330996333dd5002708c",
+      "size": 103976,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Girl-gyro",
+      "kind": "wallpaper",
+      "name": "Girl Gyro",
+      "author": "Sage",
+      "version": "1.0.0",
+      "summary": "Hình nền Girl Gyro với chuyển động sinh động.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0435.png",
+      "screenshots": [
+        "assets/IMG_0435.png",
+        "assets/IMG_0436.png"
+      ],
+      "download": "packages/Girlgyro.tendies",
+      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
+      "size": 6785409,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "catvolleybal-lite",
+      "kind": "wallpaper",
+      "name": "Cat Volleyball Lite",
+      "author": "C4ndyf1sh",
+      "version": "1.0.0",
+      "summary": "Hình nền mèo chơi bóng chuyền với phong cách vui nhộn.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0448.png",
+      "screenshots": [
+        "assets/IMG_0448.png",
+        "assets/IMG_0449.png"
+      ],
+      "download": "packages/catvolleyball-lite.tendies",
+      "sha256": "2c314fc2822a4d8be3b92f4d2bf99578f03f2d214a5931e4764bd9b7cc27d79e",
+      "size": 7430598,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "hamster-play-football",
+      "kind": "wallpaper",
+      "name": "Hamster Play Football",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Hình nền Hamster đá bóng, thiết kế vui mắt và dễ thương.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/IMG_0450.png",
+      "screenshots": [
+        "assets/IMG_0450.png",
+        "assets/IMG_0451.png"
+      ],
+      "download": "packages/Hamster_Playing_Football.tendies",
+      "sha256": "8fbff0d4aea68ed52007f8c0c2ed0dc124026bdf4e892767046ff0c3ebe83915",
+      "size": 1576708,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Hachiware-dial-3105",
+      "kind": "patch",
+      "name": "Hachiware Dialer",
+      "author": "Xuan Dan & Gasetinh",
+      "version": "1.0.0",
+      "summary": "Giao diện Hachiware dành cho màn hình bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0467.png",
+      "screenshots": [
+        "assets/IMG_0467.png",
+        "assets/IMG_0466.png"
+      ],
+      "download": "packages/Chikawa.3105",
+      "sha256": "310d427ebb4faa411c97e649490e46fb3f1ddd8a0610d7083442b3b790d51526",
+      "size": 380975,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "cute-cat-3105",
+      "kind": "patch",
+      "name": "Cute Cat Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "Giao diện mèo dễ thương cho bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0470.png",
+      "screenshots": [
+        "assets/IMG_0470.png",
+        "assets/IMG_0469.png"
+      ],
+      "download": "packages/Cutecat.3105",
+      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
+      "size": 371968,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Maker-3105",
+      "kind": "patch",
+      "name": "Maker Dialer",
+      "author": "Gasetinb",
+      "version": "1.0.0",
+      "summary": "Theme Maker được thiết kế cho giao diện bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0478.png",
+      "screenshots": [
+        "assets/IMG_0478.png",
+        "assets/IMG_0477.png"
+      ],
+      "download": "packages/Maker.3105",
+      "sha256": "9788ed290155ab46452ec3120961af84caad661b2c4f76120bb647f911b30245",
+      "size": 81492,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Shin-3105",
+      "kind": "patch",
+      "name": "Shin Dialer",
+      "author": "Gasetinb",
+      "version": "1.0.0",
+      "summary": "Theme Shin dành cho màn hình quay số điện thoại.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0476.png",
+      "screenshots": [
+        "assets/IMG_0476.png",
+        "assets/IMG_0475.png"
+      ],
+      "download": "packages/Shin.3105",
+      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
+      "size": 775687,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "AmongUs-dialer",
+      "kind": "patch",
+      "name": "AmongUs Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "Giao diện Among Us tùy chỉnh cho bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0481.png",
+      "screenshots": [
+        "assets/IMG_0481.png",
+        "assets/IMG_0480.png"
+      ],
+      "download": "packages/AmongUs.3105",
+      "sha256": "3e302b4508d2f50e18c9e50436c4be473245a037974cd96fabefdf6e051c4579",
+      "size": 420374,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Pixel-dialer",
+      "kind": "patch",
+      "name": "Pixel Dialer",
+      "author": "Gasetinh",
+      "version": "1.0.0",
+      "summary": "Theme Pixel mang phong cách riêng cho bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0484.png",
+      "screenshots": [
+        "assets/IMG_0484.png",
+        "assets/IMG_0485.png"
+      ],
+      "download": "packages/Pixel.3105",
+      "sha256": "0e6367666375c5fc3877cbcafd57d5da3584ecabde1843812fcaefdc28da2ea9",
+      "size": 45103,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Lovely-dialer",
+      "kind": "patch",
+      "name": "Lovely Dialer",
+      "author": "Gaáetinh",
+      "version": "1.0.0",
+      "summary": "Giao diện Lovely nhẹ nhàng cho bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0482.png",
+      "screenshots": [
+        "assets/IMG_0482.png",
+        "assets/IMG_0483.png"
+      ],
+      "download": "packages/Lovely.3105",
+      "sha256": "bb61ef119e7aadd3fbbe88f95b81d1f85a3d0107733aad0e9c9cc51a373f99dc",
+      "size": 70423,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Onepiece-dialer",
+      "kind": "patch",
+      "name": "OnePiece Dialer",
+      "author": "XuanDan & Gasetinh",
+      "version": "1.0.0",
+      "summary": "Theme OnePiece dành cho giao diện bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/IMG_0487.png",
+      "screenshots": [
+        "assets/IMG_0487.png",
+        "assets/IMG_0488.png"
+      ],
+      "download": "packages/Onepiece.3105",
+      "sha256": "bae7cfb32179107a86af4be80c122cce7a25600c580499b00f10f21a76331a44",
+      "size": 386627,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Doraemon-3105",
+      "kind": "patch",
+      "name": "Doraemon Dialer",
+      "author": "Xuan Dan & Gasetinh",
+      "version": "1.0.0",
+      "summary": "Giao diện Doraemon dành cho màn hình bàn phím quay số.",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/0644.jpeg",
+      "screenshots": [
+        "assets/0644.jpeg",
+        "assets/0645.jpeg"
+      ],
+      "download": "packages/Doraemon.3105",
+      "sha256": "81b06b4e845517df23070b57e1fd01219d288473ba7e7c8d4a1611f8c1c4736b",
+      "size": 98134,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "hoshimachi-suisei-1-0",
+      "kind": "patch",
+      "name": "Hoshimachi Suisei 1.0",
+      "author": "NhaKa",
+      "version": "1.0.0",
+      "summary": "Hoshimachi Suisei 1.0",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/0735.png",
+      "screenshots": [
+        "assets/0735.png",
+        "assets/0743.png"
+      ],
+      "download": "packages/Hoshimachi_Suisei_1_0.tendies",
+      "sha256": "0e7cfcc050ddfea5aeb7163ef4ed0be12ec828362d22b627cf9f9d7894d0c151",
+      "size": 71054,
+      "supportedOS": [
+        "iOS"
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "hoshimachi-suisei-2-0",
+      "kind": "patch",
+      "name": "Hoshimachi Suisei 2.0",
+      "author": "NhaKa",
+      "version": "1.0.0",
+      "summary": "Hoshimachi Suisei 2.0",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/0736.png",
+      "screenshots": [
+        "assets/0736.png",
+        "assets/0744.png"
+      ],
+      "download": "packages/Hoshimachi_Suisei_2_0.tendies",
+      "sha256": "4df1bfbd5c84d79e6027a05ebf36ee0090bc1f4db3c6c19aa827f8a7d3b516cf",
+      "size": 111048,
+      "supportedOS": [
+        "iOS"
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "luo-tianyi",
+      "kind": "patch",
+      "name": "Luo Tianyi",
+      "author": "NhaKa",
+      "version": "1.0.0",
+      "summary": "Luo Tianyi",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/0737.png",
+      "screenshots": [
+        "assets/0737.png",
+        "assets/0745.png"
+      ],
+      "download": "packages/Luo_Tianyi.tendies",
+      "sha256": "0ae6e2f418d18bdc6d2fe2b7ae1092e07973eeaa03feae5bf0cbfce16599b59e",
+      "size": 133082,
+      "supportedOS": [
+        "iOS"
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "snoopy-on-the-moon",
+      "kind": "patch",
+      "name": "Snoopy on the moon",
+      "author": "NhaKa",
+      "version": "1.0.0",
+      "summary": "Snoopy on the moon",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/0738.png",
+      "screenshots": [
+        "assets/0738.png",
+        "assets/0748.png"
+      ],
+      "download": "packages/Snoopy_on_the_moon.tendies",
+      "sha256": "09b03940186bfbf59388f615e45a27eb2761fddff37eb08cce86bf12fbd6c559",
+      "size": 28530,
+      "supportedOS": [
+        "iOS"
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "transformers-star-convoy",
+      "kind": "patch",
+      "name": "Transformers Star Convoy",
+      "author": "NhaKa",
+      "version": "1.0.0",
+      "summary": "Transformers Star Convoy",
+      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+      "icon": "assets/0740.png",
+      "screenshots": [
+        "assets/0740.png",
+        "assets/0750.png"
+      ],
+      "download": "packages/Transformers_Star_Convoy.tendies",
+      "sha256": "9bcfa4eeeffb4e7051df523fbdbcf7bb2dbe76a166be3381fa1e7939bb10c12e",
+      "size": 206712,
+      "supportedOS": [
+        "iOS"
+      ],
+      "featured": false,
+      "isPrivate": false
+    }
+  ]
+}
