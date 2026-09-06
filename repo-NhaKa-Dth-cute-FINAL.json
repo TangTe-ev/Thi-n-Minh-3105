@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.KimAnhNha.Nhacute",
-  "name": "HuyKa ",
-  "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-  "icon": "assets/IMG_0143.jpeg",
+  "identifier": "com.yangjiii.LSNguyen",
+  "name": "LSNguyen Repository",
+  "description": "Nguồn Repository của LSNguyen. nơi đăng nhiều thứ hay ho",
+    "accentColor": "#94ccff",
+  "icon": "assets/IMG_0479.jpeg",
   "packages": [
     {
       "identifier": "Deafult-apple-wallpaper",
@@ -11,8 +12,8 @@
       "name": "Deafult Apple Wallpaper",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Bộ hình nền Apple mặc định với phong cách tối giản.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "the first tendies by Apple in collect",
+      "description": "First Apple Wallpaper",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -22,6 +23,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/f04c0a8e81c328201ad7769fac16b907ce905035/previews/apple/images/Defaults.png"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "download": "packages/Defaults.tendies",
       "sha256": "ef7a823847f6a9f73fd019074695db0d99172a048f840228b0db2f3205765e5b",
       "size": 12587406,
@@ -54,13 +56,14 @@
       "name": "Apple Birds",
       "author": "Nhat Tien",
       "version": "1.0.0",
-      "summary": "Hình nền Apple nổi bật với logo chuyển màu.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "hình nền đơn giản với logo apple đổi màu",
+      "description": "cấu trúc tuy đơn giản nhưng lại vô cùng tinh tế",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-29T10:00:00Z",
       "icon": "assets/IMG_0371.png",
       "screenshots": [
         "assets/IMG_0371.png",
@@ -95,11 +98,11 @@
     {
       "identifier": "Capcut-Pro",
       "kind": "patch",
-      "name": "Capcut Pro",
+      "name": "Capcut",
       "author": "YangJiii",
       "version": "1.0.0",
-      "summary": "Phiên bản CapCut tùy chỉnh với các tính năng Pro.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Nâng Capcut miễn phí, vĩnh viễn",
+      "description": "Sau Khi nâng không được login tài khoản",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
@@ -108,6 +111,7 @@
       "screenshots": [
         "assets/IMG_0379.png"
       ],
+      "publishedAt": "2026-08-29T10:00:00Z",
       "download": "packages/CapcutPro.3105",
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
       "password": "3105",
@@ -138,11 +142,11 @@
     {
       "identifier": "Dazz-Cam-Pro",
       "kind": "patch",
-      "name": "Dazz Cam Pro",
+      "name": "Dazz Cam ",
       "author": "W/m Cryy",
       "version": "1.0.0",
-      "summary": "Bản Dazz Cam Pro được tùy chỉnh cho trải nghiệm chụp ảnh.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Nâng Dazz Cam miễn phí, vĩnh viễn",
+      "description": "Dazz Cam miễn phí",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
@@ -151,6 +155,7 @@
       "screenshots": [
         "assets/IMG_0380.png"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "download": "packages/Dazz Cam Pro (WmCry).3105",
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
       "size": 1082,
@@ -184,13 +189,14 @@
       "name": "Autumn-city",
       "author": "Gdnnpc",
       "version": "1.0.0",
-      "summary": "Hình nền thành phố mùa thu cùng hiệu ứng lá rơi.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Autumn themed wallpaper with falling leaves",
+      "description": "Autumn themed wallpaper with falling leaves",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0402.png",
       "screenshots": [
         "assets/IMG_0402.png",
@@ -225,16 +231,17 @@
     {
       "identifier": "Chika-Wallpaper",
       "kind": "wallpaper",
-      "name": "Chika Wallpaper",
+      "name": "Hachiware Wallpaper",
       "author": "Chinese",
       "version": "1.0.0",
-      "summary": "Hình nền Chikawa dễ thương, mang phong cách đáng yêu ✨",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Hình nền Hachiware siêu cute✨ ",
+      "description": "Phù hợp với các chị em",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-29T10:00:00Z",
       "icon": "assets/IMG_0339.png",
       "screenshots": [
         "assets/IMG_0345.png",
@@ -272,8 +279,8 @@
       "name": "iPhone17Pro & ProMax",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Bộ hình nền dành cho iPhone 17 Pro/Pro Max • iOS 26+.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "*iOS 26+",
+      "description": "*iOS 26+ , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -283,6 +290,7 @@
       "screenshots": [
         "assets/IMG_0424.jpeg"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "download": "packages/iPhone 17 Pro.tendies",
       "sha256": "f6caadf93d7bba10ace6ae0f6c147af28ab636163ee4461b1a82731051971626",
       "size": 111695,
@@ -315,13 +323,14 @@
       "name": "iPhone Air",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Hình nền iPhone Air • hỗ trợ iPhone 15 Pro trở lên, iOS 26+.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "*15 Pro or newer, iOS 26+",
+      "description": "*iOS 26+ ,  Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
         "Wallpaper"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0425.jpeg",
       "screenshots": [
         "assets/IMG_0425.jpeg"
@@ -358,13 +367,14 @@
       "name": "iPhone 17",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Bộ hình nền iPhone 17 • yêu cầu iOS 26+.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "*iOS 26+ ",
+      "description": "*iOS 26+ ,  Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
         "Wallpaper"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0430.jpeg",
       "screenshots": [
         "assets/IMG_0430.jpeg"
@@ -401,13 +411,14 @@
       "name": "iPhone 17e",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Hình nền iPhone 17e • hỗ trợ từ iOS 26.3.1+.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "*iOS 26.3.1+",
+      "description": "*iOS 26.3.1+ ,  Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
         "Wallpaper"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0426.jpeg",
       "screenshots": [
         "assets/IMG_0426.jpeg"
@@ -444,13 +455,14 @@
       "name": "iPhone 16 Pro & Pro Max",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Hình nền iPhone 16 Pro/Pro Max • iOS 18+.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "*15 Pro or newer, iOS 18+",
+      "description": "*iOS 18+ ,  Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
         "Wallpaper"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0427.jpeg",
       "screenshots": [
         "assets/IMG_0427.jpeg"
@@ -487,8 +499,8 @@
       "name": "iPhone 16",
       "author": "Apple",
       "version": "1.0.0",
-      "summary": "Bộ hình nền iPhone 16 • tương thích iOS 18+.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "*iOS 18+",
+      "description": "*iOS 18+ ,  Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0).",
       "category": "Apple",
       "tags": [
         "Apple",
@@ -498,6 +510,7 @@
       "screenshots": [
         "assets/IMG_0428.jpeg"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "download": "packages/iPhone 16.tendies",
       "sha256": "f4acbf67ca1d7e4dfd4583aae0383efe0c4a25d69f2fc330996333dd5002708c",
       "size": 103976,
@@ -528,15 +541,16 @@
       "identifier": "Girl-gyro",
       "kind": "wallpaper",
       "name": "Girl Gyro",
-      "author": "Sage",
+      "author": "Van Nghia",
       "version": "1.0.0",
-      "summary": "Hình nền Girl Gyro với chuyển động sinh động.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Girl Gyro and some beautiful animation",
+      "description": "Girl Gyro and some beautiful animation",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0435.png",
       "screenshots": [
         "assets/IMG_0435.png",
@@ -574,13 +588,14 @@
       "name": "Cat Volleyball Lite",
       "author": "C4ndyf1sh",
       "version": "1.0.0",
-      "summary": "Hình nền mèo chơi bóng chuyền với phong cách vui nhộn.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Hapi Hapi Hapi ",
+      "description": "Hapi Hapi Hapi",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0448.png",
       "screenshots": [
         "assets/IMG_0448.png",
@@ -618,13 +633,14 @@
       "name": "Hamster Play Football",
       "author": "YangJiii",
       "version": "1.0.0",
-      "summary": "Hình nền Hamster đá bóng, thiết kế vui mắt và dễ thương.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Make By YangJiii Original By Onerock",
+      "description": "Make By YangJiii Original By Onerock",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0450.png",
       "screenshots": [
         "assets/IMG_0450.png",
@@ -658,24 +674,23 @@
     },
     {
       "identifier": "Hachiware-dial-3105",
-      "kind": "patch",
       "name": "Hachiware Dialer",
       "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
-      "summary": "Giao diện Hachiware dành cho màn hình bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Hachiware xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Hachiware cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0467.png",
       "screenshots": [
         "assets/IMG_0467.png",
         "assets/IMG_0466.png"
       ],
-      "download": "packages/Chikawa.3105",
-      "sha256": "310d427ebb4faa411c97e649490e46fb3f1ddd8a0610d7083442b3b790d51526",
-      "size": 380975,
+      "download": "packages/hachiware2.3105pass",
+      "sha256": "ce3cb58493be8ebaa7d9d1a85a6ec1f162b2da57e8aea083eafd8f20d1286fe0",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -701,24 +716,23 @@
     },
     {
       "identifier": "cute-cat-3105",
-      "kind": "patch",
       "name": "Cute Cat Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Giao diện mèo dễ thương cho bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Cute Cat cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0470.png",
       "screenshots": [
         "assets/IMG_0470.png",
         "assets/IMG_0469.png"
       ],
-      "download": "packages/Cutecat.3105",
-      "sha256": "8aa93792a87c8bb2924a44cdbbe462627e95fd4e1e6cf7107d1d2a672de9c085",
-      "size": 371968,
+      "download": "packages/TelephonyUI-10-cute-cat 2.3105pass",
+      "sha256": "3a5193cd8fcf9794854235c43e386bc6dff059d9daed0398216fb94451841eb8",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -744,24 +758,23 @@
     },
     {
       "identifier": "Maker-3105",
-      "kind": "patch",
       "name": "Maker Dialer",
-      "author": "Gasetinb",
+      "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Theme Maker được thiết kế cho giao diện bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Maker xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Maker cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0478.png",
       "screenshots": [
         "assets/IMG_0478.png",
         "assets/IMG_0477.png"
       ],
-      "download": "packages/Maker.3105",
-      "sha256": "9788ed290155ab46452ec3120961af84caad661b2c4f76120bb647f911b30245",
-      "size": 81492,
+      "download": "packages/TelephonyUI-permanent-marker-pen.3105pass",
+      "sha256": "360420fe3a0f29608e4243d17c5dd82bf0e5abfff4b26c409e76171f25be07a5",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -787,24 +800,23 @@
     },
     {
       "identifier": "Shin-3105",
-      "kind": "patch",
       "name": "Shin Dialer",
-      "author": "Gasetinb",
+      "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Theme Shin dành cho màn hình quay số điện thoại.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Shin xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Shin cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0476.png",
       "screenshots": [
         "assets/IMG_0476.png",
         "assets/IMG_0475.png"
       ],
-      "download": "packages/Shin.3105",
-      "sha256": "8bae5e04cfd8fe38f6b6b58f713b24e0e1f9de143013a013030fad12c140339e",
-      "size": 775687,
+      "download": "packages/TelephonyUI-shin.3105pass",
+      "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -830,24 +842,23 @@
     },
     {
       "identifier": "AmongUs-dialer",
-      "kind": "patch",
       "name": "AmongUs Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Giao diện Among Us tùy chỉnh cho bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "AmongUs xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme AmongUs cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0481.png",
       "screenshots": [
         "assets/IMG_0481.png",
         "assets/IMG_0480.png"
       ],
-      "download": "packages/AmongUs.3105",
-      "sha256": "3e302b4508d2f50e18c9e50436c4be473245a037974cd96fabefdf6e051c4579",
-      "size": 420374,
+      "download": "packages/TelephonyUI-amongus.3105pass",
+      "sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -873,24 +884,23 @@
     },
     {
       "identifier": "Pixel-dialer",
-      "kind": "patch",
       "name": "Pixel Dialer",
       "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Theme Pixel mang phong cách riêng cho bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Pixel xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Pixel cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
-      "icon": "assets/IMG_0484.png",
+      "publishedAt": "2026-08-30T10:00:00Z",
+      "icon": "assets/IMG_0868.png",
       "screenshots": [
-        "assets/IMG_0484.png",
-        "assets/IMG_0485.png"
+        "assets/IMG_0868.png",
+        "assets/IMG_0870.png"
       ],
-      "download": "packages/Pixel.3105",
-      "sha256": "0e6367666375c5fc3877cbcafd57d5da3584ecabde1843812fcaefdc28da2ea9",
-      "size": 45103,
+      "download": "packages/Fixpixel.3105pass",
+      "sha256": "0dd3871d496200937c3a10fd4c61d69daea0486ccc66da73cdc13134e5209366",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -916,24 +926,23 @@
     },
     {
       "identifier": "Lovely-dialer",
-      "kind": "patch",
       "name": "Lovely Dialer",
-      "author": "Gaáetinh",
+      "author": "Gasetinh",
       "version": "1.0.0",
-      "summary": "Giao diện Lovely nhẹ nhàng cho bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Lovely xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Lovely cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0482.png",
       "screenshots": [
         "assets/IMG_0482.png",
         "assets/IMG_0483.png"
       ],
-      "download": "packages/Lovely.3105",
-      "sha256": "bb61ef119e7aadd3fbbe88f95b81d1f85a3d0107733aad0e9c9cc51a373f99dc",
-      "size": 70423,
+      "download": "packages/TelephonyUI-Lovely.3105pass",
+      "sha256": "cd5a288c0358a6b2e4c99592c8c0139473da7db122bf50dc89931f0711569301",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -959,24 +968,23 @@
     },
     {
       "identifier": "Onepiece-dialer",
-      "kind": "patch",
       "name": "OnePiece Dialer",
       "author": "XuanDan & Gasetinh",
       "version": "1.0.0",
-      "summary": "Theme OnePiece dành cho giao diện bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "OnePiece xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme OnePiece cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/IMG_0487.png",
       "screenshots": [
         "assets/IMG_0487.png",
         "assets/IMG_0488.png"
       ],
-      "download": "packages/Onepiece.3105",
-      "sha256": "bae7cfb32179107a86af4be80c122cce7a25600c580499b00f10f21a76331a44",
-      "size": 386627,
+      "download": "packages/onepiecefix.3105pass",
+      "sha256": "f7afba892113793910296b6a688c0a91bedf62a5d3238c415e8784794b23bfe3",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1001,25 +1009,882 @@
       "isPrivate": false
     },
     {
-      "identifier": "Doraemon-3105",
-      "kind": "patch",
-      "name": "Doraemon Dialer",
-      "author": "Xuan Dan & Gasetinh",
+      "identifier": "waguri-kaoruko",
+      "kind": "wallpaper",
+      "name": "Waguri Kaoruko Meizu",
+      "author": "Aya Dev",
       "version": "1.0.0",
-      "summary": "Giao diện Doraemon dành cho màn hình bàn phím quay số.",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Meizu wallpaper with Waguri Kaoruko",
+      "description": "A beautiful meizu wallpaper!",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0510.jpeg",
+      "screenshots": [
+        "assets/IMG_0510.jpeg",
+        "assets/IMG_0511.png",
+        "assets/IMG_0512.png"
+      ],
+      "download": "packages/Gaytaixuong.tendies",
+      "sha256": "1215f15a1aca541c37f9d91430815794e3ef3757e72c4217dc86e13e18bd0869",
+      "size": 5224678,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "autumn-horizon",
+      "kind": "wallpaper",
+      "name": "Autumn Horizon",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "summary": "Autumn Horizon on Mountain",
+      "description": "Autumn Horizon on Mountain",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0546.png",
+      "screenshots": [
+        "assets/IMG_0546.png",
+        "assets/IMG_0547.png"
+      ],
+      "download": "packages/autumn_horizon.tendies",
+      "sha256": "e6d2ed776510c655c434375d77ad972625d68093857dfdec0fc9ac292d33f147",
+      "size": 1976071,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Cute-Cat",
+      "kind": "wallpaper",
+      "name": "Live Cute Cat Dancing ",
+      "author": "unknown",
+      "version": "1.0.0",
+      "summary": "Live Wallpaper Cute Cat Dancing",
+      "description": "Live Wallpaper Cute Cat Dancing",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0548.png",
+      "screenshots": [
+        "assets/IMG_0548.png",
+        "assets/IMG_0549.png"
+      ],
+      "download": "packages/live_wallpaper_cute_cats_dancing.tendies",
+      "sha256": "6199ac4484ef846d97daea93f326f287afecf31b09d7c32f43ef3b32119713f0",
+      "size": 1980415,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "ipad11",
+      "kind": "wallpaper",
+      "name": "GirlGyro For iPad",
+      "author": "Van Nghia",
+      "version": "1.0.0",
+      "summary": "Girl Gyro and some beautiful animation , Make For iPad",
+      "description": "Girl Gyro and some beautiful animation , Make For iPad",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0585.jpeg",
+      "screenshots": [
+        "assets/IMG_0585.jpeg",
+        "assets/IMG_0587.jpeg"
+      ],
+      "download": "packages/iPad-11-inch.tendies",
+      "sha256": "caabf75cd7399eefa817d55f2acf3d7ff06538108cec4d8e696d5bcd0677eb24",
+      "size": 8314605,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "bocchi-the-rock",
+      "kind": "wallpaper",
+      "name": "Bocchi The Rock Dark",
+      "author": "FIREXDF",
+      "version": "1.0.0",
+      "summary": "Tested on iPhone 15. Got AOD",
+      "description": "Tested on iPhone 15. Got AOD",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0550.png",
+      "screenshots": [
+        "assets/IMG_0550.png",
+        "assets/IMG_0551.png"
+      ],
+      "download": "packages/Bocchi_the_rock_Dark.tendies",
+      "sha256": "e605f1ee3ea1059799ddf56e342ea0c35088f0686572ab59e6b4c60159f57031",
+      "size": 582766,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Girl-rain",
+      "kind": "wallpaper",
+      "name": "Girl with Black Liquid Rain",
+      "author": "unknown",
+      "version": "1.0.0",
+      "summary": "Chill Wallpaper with Girl with Black Liquid Rain",
+      "description": "Chill Wallpaper with Girl with Black Liquid Rain",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0554.png",
+      "screenshots": [
+        "assets/IMG_0554.png",
+        "assets/IMG_0555.png"
+      ],
+      "download": "packages/thetorturedpoetsdepartment.tendies",
+      "sha256": "e605f1ee3ea1059799ddf56e342ea0c35088f0686572ab59e6b4c60159f57031",
+      "size": 582766,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "wang-lin",
+      "kind": "wallpaper",
+      "name": "Wanglin",
+      "author": "Plat iOS",
+      "version": "1.0.0",
+      "summary": "Character Wanglin",
+      "description": "Character Wanglin",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0556.png",
+      "screenshots": [
+        "assets/IMG_0556.png",
+        "assets/IMG_0557.png"
+      ],
+      "download": "packages/wanglin.tendies",
+      "sha256": "7d6bad0484f914fb6c9c7a929c39ce03d6ac57b242cbfa31c228c5021862c5d3",
+      "size": 17774688,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Cat-Dog",
+      "kind": "wallpaper",
+      "name": "A Dog and Two Cats Wearing Headphone",
+      "author": "Nhat Tien",
+      "version": "1.0.0",
+      "summary": "A Dog and Two Cats Wearing Headphone",
+      "description": "A Dog and Two Cats Wearing Headphone",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-08-31T10:00:00Z",
+      "icon": "assets/IMG_0544.png",
+      "screenshots": [
+        "assets/IMG_0544.png",
+        "assets/IMG_0545.png"
+      ],
+      "download": "packages/nugget_wallpaper_a_cat_and_a_dog_wearing_headphones.tendies",
+      "sha256": "29d9f91013e631e2e2f55acd37cc14c2b581d9cbf1d37715cff04a634310b92c",
+      "size": 6193610,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "usagi-wall",
+      "kind": "wallpaper",
+      "name": "Usagi Wallpaper",
+      "author": "Nhat Tien (repo  Denrindz)",
+      "version": "1.0.0",
+      "summary": "hình nền Usagi siêu cute✨",
+      "description": "Phù hợp với các chị em",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-01T10:00:00Z",
+      "icon": "assets/IMG_0595.png",
+      "screenshots": [
+        "assets/IMG_0595.png",
+        "assets/IMG_0596.png"
+      ],
+      "download": "packages/Usagi.tendies",
+      "sha256": "6732bc46661f629a81ceaf2bf4a54ee46105d1268a8681f834eb81b705b40465",
+      "size": 12991848,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Broken-screen",
+      "kind": "wallpaper",
+      "name": "Broken Screen",
+      "author": "Jam_minty",
+      "version": "1.0.0",
+      "summary": "YOU BROKE MY SCREEN!",
+      "description": "YOU BROKE MY SCREEN , ",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-01T10:00:00Z",
+      "icon": "assets/IMG_0598.png",
+      "screenshots": [
+        "assets/IMG_0598.png",
+        "assets/IMG_0599.png"
+      ],
+      "download": "packages/BrokenScreen.tendies",
+      "sha256": "2fbc73afa44c0ed396060f46d61e20698a972deea734d4adca628f9b5d07a032",
+      "size": 20108425,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Night-city",
+      "kind": "wallpaper",
+      "name": "Night City",
+      "author": "Squair.dev",
+      "version": "1.0.0",
+      "summary": "The City of Legends!",
+      "description": "The City of Legends , Nguồn: SerStars/Nugget-Wallpapers (GPL-3.0)",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-01T10:00:00Z",
+      "icon": "assets/IMG_0600.png",
+      "screenshots": [
+        "assets/IMG_0600.png",
+        "assets/IMG_0601.png"
+      ],
+      "download": "packages/Night_City.tendies",
+      "sha256": "8cbdd90de6cc3960d891b357fe9d252819ffaca11ab6df8e010dd1ed6c2ab5eb",
+      "size": 37861,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Alya-wwallpaper",
+      "kind": "wallpaper",
+      "name": "Alya",
+      "author": "Little 34306",
+      "version": "1.0.0",
+      "summary": "Alya Wallpaper By Huy Nguyen",
+      "description": "Alya Wallpaper By Huy Nguyen",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-01T10:00:00Z",
+      "icon": "assets/IMG_0604.png",
+      "screenshots": [
+        "assets/IMG_0604.png",
+        "assets/IMG_0605.png"
+      ],
+      "download": "packages/alya_1-0.tendies",
+      "sha256": "1fd49136524a01994b065f6ab60b297de783b5dfca791062c28d22050eb87ab6",
+      "size": 6384127,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "koisuru-wall",
+      "kind": "wallpaper",
+      "name": "Koisuru",
+      "author": "Little 34306",
+      "version": "1.0.0",
+      "summary": "Koisuru Wallpaper By Huy Nguyen",
+      "description": "Koisuru Wallpaper By Huy Nguyen",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-01T10:00:00Z",
+      "icon": "assets/IMG_0558.png",
+      "screenshots": [
+        "assets/IMG_0558.png",
+        "assets/IMG_0559.png"
+      ],
+      "download": "packages/koisuru_1-0.tendies",
+      "sha256": "44ba75dcd4b91db9aed1e38c2e98b41108709c3ede5bf62cb1065019e9a7f7db",
+      "size": 7868803,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Black-ball",
+      "kind": "wallpaper",
+      "name": "Black Balls",
+      "author": "Spy_g_was_silenced",
+      "version": "1.0.0",
+      "summary": "Floating black balls",
+      "description": "Floating black balls",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-01T10:00:00Z",
+      "icon": "assets/IMG_0560.png",
+      "screenshots": [
+        "assets/IMG_0560.png",
+        "assets/IMG_0561.png"
+      ],
+      "download": "packages/Black_balls.tendies",
+      "sha256": "d49eed01431cc501195b9fb191ca61e860956cab518e05d97e9e0261cc019d09",
+      "size": 498416,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Akane-angel",
+      "kind": "wallpaper",
+      "name": "AKANE-the-Angle",
+      "author": "Fan DoraXXX",
+      "version": "1.0.0",
+      "summary": "Original from game 'O.N.G.E.K.I' @SEGA",
+      "description": "Original from game 'O.N.G.E.K.I' @SEGA",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-02T10:00:00Z",
+      "icon": "assets/IMG_0377.png",
+      "screenshots": [
+        "assets/IMG_0377.png",
+        "assets/IMG_0378.png"
+      ],
+      "download": "packages/AKANE_the_Angle.tendies",
+      "sha256": "9eb5c2a00592f77df7adba93632ec991093422139862a57f730d6b7adb6b17e5",
+      "size": 21911764,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Chikawa-meizu",
+      "kind": "wallpaper",
+      "name": "Chikawa Meizu",
+      "author": "LSNguyen & Nhat Tien",
+      "version": "1.0.0",
+      "summary": "Chikawa Meizu!",
+      "description": "Chikawa Meizu so cute!",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-02T10:00:00Z",
+      "icon": "assets/IMG_0753.jpeg",
+      "screenshots": [
+        "assets/IMG_0753.jpeg",
+        "assets/IMG_0751.png",
+        "assets/IMG_0752.png"
+      ],
+      "download": "packages/Js 3.tendies",
+      "sha256": "2fce640819c6868edc6c6887bce69e8ef54ecb2be9df7cd902af778665e59bdf",
+      "size": 488404,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Snoopy-ice",
+      "kind": "wallpaper",
+      "name": "Snoopy in the Snow",
+      "author": "Spy_g_was_silenced",
+      "version": "1.0.0",
+      "summary": "Snoopy",
+      "description": "Snoopy",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-02T10:00:00Z",
+      "icon": "assets/IMG_0769.png",
+      "screenshots": [
+        "assets/IMG_0769.png",
+        "assets/IMG_0770.png"
+      ],
+      "download": "packages/Snoopy_in_the_snow.tendies",
+      "sha256": "2db0707544055362705a0479c8a23f4ec66afac2114d13e7410279c406dc7498",
+      "size": 9004979,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Minecraft",
+      "kind": "wallpaper",
+      "name": "Minecraft Totems",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "summary": "Minecraft",
+      "description": "Minecraft Totems",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-02T10:00:00Z",
+      "icon": "assets/IMG_0771.png",
+      "screenshots": [
+        "assets/IMG_0771.png",
+        "assets/IMG_0772.png"
+      ],
+      "download": "packages/MINECRAFT.TENDIES",
+      "sha256": "1abc0222a5d92343b0c3e8cbab6f6ffb3e735096a174e8e0bd3d814f0dcd44ae",
+      "size": 2709499,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "furina",
+      "kind": "wallpaper",
+      "name": "Minecraft Furina",
+      "author": "Ymkee01",
+      "version": "1.0.0",
+      "summary": "Furina wallpaper from Genshin Impact with Minecraft",
+      "description": "Furina wallpaper from Genshin Impact with Minecraft",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "publishedAt": "2026-09-02T10:00:00Z",
+      "icon": "assets/IMG_0773.png",
+      "screenshots": [
+        "assets/IMG_0773.png",
+        "assets/IMG_0774.png"
+      ],
+      "download": "packages/Minecraft_Furina.tendies",
+      "sha256": "243f2c000eb7e60b87e9016e6007e3d6cd6326269067802fc0cb2cd6d4d65d78",
+      "size": 5581191,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Basic-dial",
+      "name": "Basic Dialer",
+      "author": "Owen",
+      "version": "1.0.0",
+      "summary": "Basic Dial xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Basic cho anh em không cần jailbreak",
       "category": "Patches & Dialers",
       "tags": [
         "Patches & Dialers"
       ],
-      "icon": "assets/0644.jpeg",
+       "publishedAt": "2026-09-04T10:00:00Z",
+      "icon": "assets/IMG_0705.png",
       "screenshots": [
-        "assets/0644.jpeg",
-        "assets/0645.jpeg"
+        "assets/IMG_0705.png",
+        "assets/IMG_0706.png"
       ],
-      "download": "packages/Doraemon.3105",
-      "sha256": "81b06b4e845517df23070b57e1fd01219d288473ba7e7c8d4a1611f8c1c4736b",
-      "size": 98134,
+      "download": "packages/Basic_CircleB&W.3105pass",
+      "sha256": "ba91799564d04544cff874c897273037aa4717456a93b7a70798cbefee97aaf8",
+      "size": 406950,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1044,26 +1909,25 @@
       "isPrivate": false
     },
     {
-      "identifier": "hoshimachi-suisei-1-0",
-      "kind": "wallpaper",
-      "name": "Hoshimachi Suisei 1.0",
-      "author": "NhaKa",
+      "identifier": "Doraemon-dial",
+      "name": "Doraemon Dialer",
+      "author": "Xuan Dan & Gasetinh",
       "version": "1.0.0",
-      "summary": "Hoshimachi Suisei 1.0",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
-      "category": "Wallpaper",
+      "summary": "Doraemon xuất hiện ngay trên bàn phím quay số!",
+      "description": "theme Doraemon cho anh em không cần jailbreak",
+      "category": "Patches & Dialers",
       "tags": [
-        "Wallpaper",
-        "Custom"
+        "Patches & Dialers"
       ],
-      "icon": "assets/IMG_0735.png",
+      "publishedAt": "2026-09-04T10:00:00Z",
+      "icon": "assets/IMG_0703.png",
       "screenshots": [
-        "assets/IMG_0735.png",
-        "assets/IMG_0743.png"
+        "assets/IMG_0703.png",
+        "assets/IMG_0704.png"
       ],
-      "download": "packages/Hoshimachi_Suisei_1_0.tendies",
-      "sha256": "0e7cfcc050ddfea5aeb7163ef4ed0be12ec828362d22b627cf9f9d7894d0c151",
-      "size": 71054,
+      "download": "packages/Doraemon.3105pass",
+      "sha256": "3874e4da4f741ff31528076bede581507cc872e27942087d978afdee1bb3e9e5",
+      "size": 1082104,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1088,26 +1952,207 @@
       "isPrivate": false
     },
     {
-      "identifier": "hoshimachi-suisei-2-0",
+      "identifier": "Snow-Emiter",
       "kind": "wallpaper",
-      "name": "Hoshimachi Suisei 2.0",
-      "author": "NhaKa",
+      "name": "Snow Emitters",
+      "author": "Enkei64",
       "version": "1.0.0",
-      "summary": "Hoshimachi Suisei 2.0",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Snowballs falling from the sky",
+      "description": "Snowballs falling from the sky",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
-      "icon": "assets/IMG_0736.png",
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0778.png",
       "screenshots": [
-        "assets/IMG_0736.png",
-        "assets/IMG_0744.png"
+        "assets/IMG_0778.png",
+        "assets/IMG_0779.png"
       ],
-      "download": "packages/Hoshimachi_Suisei_2.tendies",
-      "sha256": "4df1bfbd5c84d79e6027a05ebf36ee0090bc1f4db3c6c19aa827f8a7d3b516cf",
-      "size": 111048,
+      "download": "packages/Snow_Emitters.tendies",
+      "sha256": "96d4fc9201810edf31b927c33f99264288ca69217ca819e6ab96de18939bfad4",
+      "size": 3245744,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Nintendo-mario",
+      "kind": "wallpaper",
+      "name": "Nintendo Switch 2 X Mario Kart 9 (AOD)",
+      "author": "Enkei64",
+      "version": "1.0.0",
+      "summary": "Nintendo owns intellectual property rights in its products.",
+      "description": "cấu trúc tuy đơn giản nhưng lại vô cùng tinh tế",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0782.png",
+      "screenshots": [
+        "assets/IMG_0782.png",
+        "assets/IMG_0783.png"
+      ],
+      "download": "packages/Nintendo_Switch_2_X_Mario_Kart_9__AOD_.tendies",
+      "sha256": "eb81bf8a750fca42f9434fed8147c3382d7fc830de6a8316af377b63393e627f",
+      "size": 3284010,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Apple-Park",
+      "kind": "wallpaper",
+      "name": "Apple Park (Maps)",
+      "author": "Enkei64",
+      "version": "1.0.0",
+      "summary": "Animated Apple Park maps wallpaper",
+      "description": "Animated Apple Park maps wallpaper",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0784.png",
+      "screenshots": [
+        "assets/IMG_0784.png",
+        "assets/IMG_0785.png"
+      ],
+      "download": "packages/Apple_Park__Maps_.tendies",
+      "sha256": "a0d545d4b2739f80a03603c58d5f2770c06bfc408ff3ce920c14f1e078b7c521",
+      "size": 5891856,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Techtoker-Wallpaper",
+      "kind": "wallpaper",
+      "name": "techtoker wallpapprr",
+      "author": "3dme0711",
+      "version": "1.0.0",
+      "summary": "tested on ip13 ios26",
+      "description": "tested on ip13 ios26",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0787.png",
+      "screenshots": [
+        "assets/IMG_0787.png",
+        "assets/IMG_0788.png"
+      ],
+      "download": "packages/techtoker_wallpapprr.tendies",
+      "sha256": "602f9de53d55a62e72405d1b87582603e378b8c9b67d8fd2ebe5d74232d84dd9",
+      "size": 480884,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Huawei-palms",
+      "kind": "wallpaper",
+      "name": "Huawei Palms",
+      "author": "Sussy_tech",
+      "version": "1.0.0",
+      "summary": "Found in harmony os (better version coming soon???)",
+      "description": "Found in harmony os (better version coming soon???)",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0791.png",
+      "screenshots": [
+        "assets/IMG_0791.png",
+        "assets/IMG_0792.png"
+      ],
+      "download": "packages/Huawei_Palms.tendies",
+      "sha256": "37bc1ab0bcceed01459880598d1820da6c94a909b906bd3e82c5007450bce07b",
+      "size": 1643004,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1135,23 +2180,24 @@
       "identifier": "luo-tianyi",
       "kind": "wallpaper",
       "name": "Luo Tianyi",
-      "author": "NhaKa",
+      "author": "Meisitechen",
       "version": "1.0.0",
-      "summary": "Luo Tianyi",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Luo Tianyi wallpaper",
+      "description": "Luo Tianyi wallpaper",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
-      "icon": "assets/IMG_0737.png",
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0793.png",
       "screenshots": [
-        "assets/IMG_0737.png",
-        "assets/IMG_0745.png"
+        "assets/IMG_0793.png",
+        "assets/IMG_0794.png"
       ],
       "download": "packages/Luo_Tianyi.tendies",
-      "sha256": "0ae6e2f418d18bdc6d2fe2b7ae1092e07973eeaa03feae5bf0cbfce16599b59e",
-      "size": 133082,
+      "sha256": "bfb858ee2629a8a02e2e0cc2b65997837f72f817900fae27022112ca854ace90",
+      "size": 21135761,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1176,26 +2222,27 @@
       "isPrivate": false
     },
     {
-      "identifier": "snoopy-on-the-moon",
+      "identifier": "Apple-inteligence",
       "kind": "wallpaper",
-      "name": "Snoopy on the moon",
-      "author": "NhaKa",
+      "name": "Apple Inteligence",
+      "author": "VtaUL",
       "version": "1.0.0",
-      "summary": "Snoopy on the moon",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "Apple Intelligence",
+      "description": "Apple Intelligence",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
-      "icon": "assets/IMG_0738.png",
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0828.png",
       "screenshots": [
-        "assets/IMG_0738.png",
-        "assets/IMG_0748.png"
+        "assets/IMG_0828.png",
+        "assets/IMG_0829.png"
       ],
-      "download": "packages/Snoopy_on_the_moon.tendies",
-      "sha256": "2dfb2b51ccf5ebfc93333333d0246a482b6b5ea32a3dd4cb310ffefb79412d06",
-      "size": 10723,
+      "download": "packages/Apple_Intelligence.tendies",
+      "sha256": "ce9bb40f3103f4f6acb0731f85d9e253e2e0ec00be668aaf31a21be184bdb1f3",
+      "size": 823928,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -1220,26 +2267,252 @@
       "isPrivate": false
     },
     {
-      "identifier": "transformers-star-convoy",
+      "identifier": "Meizu-effect",
       "kind": "wallpaper",
-      "name": "Transformers Star Convoy",
-      "author": "NhaKa",
+      "name": "Meizu wallpaper effect",
+      "author": "MnhCngNg",
       "version": "1.0.0",
-      "summary": "Transformers Star Convoy",
-      "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
+      "summary": "It's only about 80% like meizu's wallpaper effect",
+      "description": "It's only about 80% like meizu's wallpaper effect",
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
         "Custom"
       ],
-      "icon": "assets/IMG_0740.png",
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0830.jpeg",
       "screenshots": [
-        "assets/IMG_0740.png",
-        "assets/IMG_0750.png"
+        "assets/IMG_0830.jpeg",
+        "assets/IMG_0831.png",
+        "assets/IMG_0832.png"
       ],
-      "download": "packages/Transformers_Star_Convoy.tendies",
-      "sha256": "9bcfa4eeeffb4e7051df523fbdbcf7bb2dbe76a166be3381fa1e7939bb10c12e",
-      "size": 206712,
+      "download": "packages/Meizu_wallpaper_effect.tendies",
+      "sha256": "5c386556f3af9b89dad690dd0ac0ed3a1aa4fa45dbf5fa382b1db73137bddefe",
+      "size": 401246,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Minecraft-liqid-glass",
+      "kind": "wallpaper",
+      "name": "Minecraft Liquid Glass (beta)",
+      "author": "XnightBE",
+      "version": "1.0.0",
+      "summary": "Just minecraft with liquid glass. Русским привет)",
+      "description": "Just minecraft with liquid glass. Русским привет)",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0833.png",
+      "screenshots": [
+        "assets/IMG_0833.png",
+        "assets/IMG_0834.png"
+      ],
+      "download": "packages/Minecraft_Liquid_Glass__beta_.tendies",
+      "sha256": "fae506ebb62b967bea4e311498fae699ac66bcaa5f4097fd4060de42e68a1a01",
+      "size": 25887785,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "nakano-nino",
+      "kind": "wallpaper",
+      "name": "Nakano Nino (The Quintessential Quintuplet)",
+      "author": "ShogunRaiden",
+      "version": "1.0.0",
+      "summary": "Custom Wallpaper Nakano nino on Gotoubun no hanayome",
+      "description": "Custom Wallpaper Nakano nino on Gotoubun no hanayome",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0835.png",
+      "screenshots": [
+        "assets/IMG_0835.png",
+        "assets/IMG_0837.png"
+      ],
+      "download": "packages/Nakano_Nino_The_Quintessential_Quintuplet_.tendies",
+      "sha256": "11742ba5325fd092bab78eeb3758b36a4ad4c4fadf358f949d66f54ce842b4f6",
+      "size": 3898542,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "miku-depth",
+      "kind": "wallpaper",
+      "name": "Miku Depth Effect",
+      "author": "wQx",
+      "version": "1.0.0",
+      "summary": "Picture source:@unnyo_8986 from X.",
+      "description": "Picture source:@unnyo_8986 from X.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+"publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/IMG_0838.png",
+      "screenshots": [
+        "assets/IMG_0838.png",
+        "assets/IMG_0839.png"
+      ],
+      "download": "packages/Miku_Depth_Effect.tendies",
+      "sha256": "afd07b579c9285ec0b99ed462ab05706b0de5f3893ed9c65bd3894c5b818970a",
+      "size": 1033399,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Widgy-Pro",
+      "kind": "patch",
+      "name": "Widgy",
+      "author": "Mai Bao",
+      "version": "1.0.0",
+      "summary": "Nâng Widgy miễn phí,vĩnh viễn",
+      "description": "Nâng Widgy miễn phí,vĩnh viễn",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0867.jpeg",
+      "screenshots": [
+        "assets/IMG_0854.png",
+        "assets/IMG_0856.png"
+      ],
+      "download": "packages/bWidgy.3105",
+      "sha256": "d251153b14c76d29689197ba43fa0eed74b90eae947538dead88512a45c1a367",
+      "size": 2161,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Locket-gold",
+      "kind": "patch",
+      "name": "Locket",
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Nâng Locket miễn phí,vĩnh viễn",
+      "description": "Cách nâng Locket mới nhất \nBước 1: Cài Patch từ Repo này về \nBước 2: Copy nguyên đoạn dữ liệu subscriber \nBước 3: Truy cập web https://dangdi.dev/locket/ \nBước 4: Dán dòng chữ vừa nãy copy vào mục dữ liệu json \nBước 5: Nhấn xử lý dữ liệu và bấm vào sao chép \nBước 6: Dán dòng code vừa copy vào mục dữ liệu subscriber hồi nãy \nBước 7: Áp dụng patch và tận hưởng thành quả🔥",
+      "category": "Patches & Dialers",
+      "tags": [
+        "Patches & Dialers"
+      ],
+"publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/IMG_0866.png",
+      "screenshots": [
+        "assets/IMG_0860.png",
+        "assets/IMG_0864.png"
+      ],
+      "download": "packages/LocketCustom.3105",
+      "sha256": "5ae759dcefdcfc265bd071040d948de174d1e6531b1ff898f032dfe273e3502c",
+      "password": "3105",
+      "size": 3697,
       "supportedOS": [
         {
           "minimum": "17.0",
