@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.KimAnhNha.Nhacute",
-  "name": "Kim Nha DangYeu",
+  "name": "HuyKa ",
   "description": "Hình nền mang vẻ đẹp sang trọng, tinh tế và đầy cuốn hút.",
   "icon": "assets/IMG_0143.jpeg",
   "packages": [
@@ -1194,8 +1194,8 @@
         "assets/IMG_0748.png"
       ],
       "download": "packages/Snoopy_on_the_moon.tendies",
-      "sha256": "09b03940186bfbf59388f615e45a27eb2761fddff37eb08cce86bf12fbd6c559",
-      "size": 28530,
+      "sha256": "2dfb2b51ccf5ebfc93333333d0246a482b6b5ea32a3dd4cb310ffefb79412d06",
+      "size": 10723,
       "supportedOS": [
         {
           "minimum": "17.0",
